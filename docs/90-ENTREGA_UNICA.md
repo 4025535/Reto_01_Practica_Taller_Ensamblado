@@ -8,7 +8,7 @@
 - Módulo: **Fundamentos de Hardware (1º ASIR)**
 - Unidad: **UT3 — Ensamblado de equipos**
 - Reto: **Reto 01 — Práctica de Taller**
-
+- Comentarios: **https://github.com/4025535/Reto_01_Practica_Taller_Ensamblado.git**
 ## Indice
 # 01 — Índice
 1. [Portada](00-portada.md)
